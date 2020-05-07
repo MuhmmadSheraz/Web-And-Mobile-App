@@ -1,0 +1,178 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+body {
+  background-color: #f7f8fa;
+}
+.navbar1 {
+  background-color: #316dc3;
+}
+
+.nav-link {
+  color: black !important;
+}
+.nav-link:hover {
+  background-color: #316dc3;
+  border-radius: 20px;
+  padding-left: 8px !important;
+  padding-right: 8px !important;
+  color: white !important;
+}
+.home-link {
+  background-color: #316dc3;
+  border-radius: 20px;
+  padding-left: 8px !important;
+  padding-right: 8px !important;
+  color: white !important;
+}
+.donor-btn {
+  color: green;
+  font-size: 15px;
+  border: 2px solid green;
+  padding: 5px;
+  margin: 1px;
+}
+.saylani-img {
+  height: 60px;
+  width: 150px;
+}
+.carousel-inner img {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-image: url(./images/sayalni_bg.jpg);
+  height: 450px;
+  width: 100%;
+}
+.news-slide {
+  color: white;
+  padding: 2px;
+  background-color: #316dc3;
+  margin: 0 auto !important;
+}
+.bottom-line {
+  border-bottom: 2px solid green;
+  width: 50px;
+}
+.introduction {
+  color: #666666;
+  background-color: #f7f8fa;
+}
+.introduction_logo img {
+  height: 50px;
+  width: 50px;
+}
+.introduction_logo {
+  display: flex;
+  text-align: center;
+}
+.introdcution_heading {
+  font-size: 50px;
+  text-transform: uppercase;
+}
+.green {
+  color: green;
+}
+.blue {
+  color: #316dc3;
+}
+.counter {
+  background-color: #2755e9;
+  height: auto;
+  width: 100%;
+}
+.counter_img {
+  height: 40px;
+}
+.greenNeon {
+  color: #00ff00;
+}
+.numbers {
+  color: white;
+  font-size: 50px;
+}
+.work_img {
+  height: 70px;
+}
+.work-para {
+  font-weight: bold;
+  font-size: 20px;
+  color: #316dc3;
+}
+.work-div {
+  background-color: white;
+  box-shadow: 0px 0px 8px 0px #000000;
+}
+.mission {
+  background-color: white;
+}
+.mission_heading {
+  font-size: 30px;
+
+  color: #4b7fca;
+}
+
+.misson_box {
+  background-color: #f7f8fa;
+  margin: 5px;
+}
+.misson_box p {
+  color: #4b7fca;
+  font-size: 15px;
+  font-weight: bold;
+}
+.mission_underline {
+  background-color: green;
+  width: 10%;
+}
+.img-gallery {
+  height: 150px;
+  width: 100%;
+}
+.footer {
+  background-color: #25272e;
+}
+.last_footer {
+  font-size: 10px;
+  padding: 5px;
+  color: white;
+  background-color: #316dd9;
+}
+.footer-color {
+  color: #bbbbbb;
+}
+.icon-color {
+  color: #427900;
+}
+.footerImg {
+  height: 40px;
+}
+.topbtn {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  background: lightgray;
+  bottom: 40px;
+  right: 50px;
+  text-decoration: none;
+  text-align: center;
+  line-height: 50px;
+  color: white;
+  font-size: 22px;
+}
+.topbtn:hover {
+  background-color: gray;
+  color: white;
+}
+.abc{
+  margin: 0 auto;
+}
