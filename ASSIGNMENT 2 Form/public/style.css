@@ -1,0 +1,33 @@
+.header {
+    text-align: center;
+}
+
+.green {
+    color: green;
+}
+
+.purple {
+    color: #6B5ACD;
+}
+
+.form_body {
+    
+    background-color: #6B5ACD;
+    padding: 5px;
+}
+
+.submit_div {
+    text-align: center;
+}
+
+.submit_btn {
+    text-decoration: none;
+}
+
+.check_img {
+    height: 250px;
+
+}
+table tr td{
+    color: white;
+}
